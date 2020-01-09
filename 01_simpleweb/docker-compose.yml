@@ -1,0 +1,6 @@
+version: "3"
+services:
+    simpleweb:
+        image: ddsd0000/simpleweb
+        ports:
+            - 8080:8080
